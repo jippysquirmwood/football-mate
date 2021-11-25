@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/football-mate/static/css/main.832463fa.chunk.css",
+    "main.js": "/football-mate/static/js/main.8574598b.chunk.js",
+    "main.js.map": "/football-mate/static/js/main.8574598b.chunk.js.map",
+    "runtime-main.js": "/football-mate/static/js/runtime-main.c6e8dc65.js",
+    "runtime-main.js.map": "/football-mate/static/js/runtime-main.c6e8dc65.js.map",
+    "static/js/2.4a9f6daa.chunk.js": "/football-mate/static/js/2.4a9f6daa.chunk.js",
+    "static/js/2.4a9f6daa.chunk.js.map": "/football-mate/static/js/2.4a9f6daa.chunk.js.map",
+    "static/js/3.b3f62f56.chunk.js": "/football-mate/static/js/3.b3f62f56.chunk.js",
+    "static/js/3.b3f62f56.chunk.js.map": "/football-mate/static/js/3.b3f62f56.chunk.js.map",
+    "index.html": "/football-mate/index.html",
+    "static/css/main.832463fa.chunk.css.map": "/football-mate/static/css/main.832463fa.chunk.css.map",
+    "static/js/2.4a9f6daa.chunk.js.LICENSE.txt": "/football-mate/static/js/2.4a9f6daa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6e8dc65.js",
+    "static/js/2.4a9f6daa.chunk.js",
+    "static/css/main.832463fa.chunk.css",
+    "static/js/main.8574598b.chunk.js"
+  ]
+}
