@@ -13,8 +13,10 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-
-  "engines": { "npm": "6.x", "node": "12.x" },
+  "engines": {
+    "npm": "6.x",
+    "node": "12.x"
+  },
   "scripts": {
     "start": "craco start",
     "build": "craco build",
