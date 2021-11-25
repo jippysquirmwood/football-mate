@@ -21,7 +21,8 @@
     "node": "12.x"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "craco start",
+    "web": "npm run server",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
