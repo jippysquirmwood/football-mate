@@ -4,7 +4,7 @@ import GamesPage from "./pages/Games/GamesPage";
 import GamePage from "./pages/Game/GamePage";
 
 function App() {
-  // comment
+  // comment again
   let routes = (
     <Switch>
       <Route path="/games/:id" component={GamePage}/>
